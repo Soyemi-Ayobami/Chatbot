@@ -1,0 +1,9 @@
+A data scientist's duties can include developing strategies for analyzing data, preparing data for analysis, exploring, analyzing, and visualizing data.
+
+Data scientists examine which questions need answering and where to find the related data.
+
+A Data Scientist job is most definitely an IT-enabled job.
+
+Data science careers require mathematical study because machine learning algorithms, and performing analyses and discovering insights from data require math.
+
+Anyone, whether a newcomer or a professional, willing to learn Data Science can opt for it. 
